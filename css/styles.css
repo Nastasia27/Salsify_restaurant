@@ -252,6 +252,13 @@ h4 {
     text-decoration: none;
 }
 
+.btn:hover {
+  background: #d43031;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}  
+
 #footer {
     background: #262626;
     padding: 40px 0 20px 0;
@@ -272,4 +279,8 @@ a {
     color: #888;
     text-decoration: none;
     margin-right: 10px;
+}
+
+a:hover {
+  color: #fff;
 }
